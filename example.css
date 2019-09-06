@@ -5,8 +5,18 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(./astro-astronomy-background-956999.jpg)
 }
-
+h1{
+  color: chartreuse
+  
+}
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-size: medium
+  color: greenyellow
+  
+}
 header {
   grid-area: header;
   color: white;
